@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Konsekvensbaserad tålighetsanalys för RSA i lokalnät: Metodutveckling och implementering av ett R-skript"
+authors:
+  - family-names: Hårrskog
+    given-names: Erik
+year: 2026
+license: MIT
